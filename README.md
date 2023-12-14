@@ -1,10 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/zuleta-laguna/zuleta-laguna/assets/131419195/ebd39edd-77a1-4eb4-8248-6ced52ad9296" width="300"/>
+ <h1>HI 👋 I'M WILBERTO ZULETA</h1> 
+</div>
+
 
 <!--
 **zuleta-laguna/zuleta-laguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ <img src="https://github.com/zuleta-laguna/zuleta-laguna/assets/131419195/2683f307-0482-4101-892b-c1a442645c50" width="300"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
