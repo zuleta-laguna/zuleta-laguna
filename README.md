@@ -1,20 +1,22 @@
-<div align="center">
-  <img src="https://github.com/zuleta-laguna/zuleta-laguna/assets/131419195/ebd39edd-77a1-4eb4-8248-6ced52ad9296" width="300"/>
- <h1>HI 👋 I'M WILBERTO ZULETA</h1> 
+### HELLO👋 I'M WILBERTO
+<p>soy Wilberto zuleta un desarrollador de software apasionado por el desarrollo web con 1 año de experiencia y gran enfoque en aprender y crecer en nuevas tecnologias</p>
+
+### SOBRE MI:
+ <img align="right" width="300" src="https://github.com/zuleta-laguna/zuleta-laguna/assets/131419195/51173a96-16eb-4926-8446-6d25e833124c"> 
+ <ul>
+  <li>Desarrollador fullStack</li>
+  <li>Autodidacta</li>                                                           
+  <li>Proactivo</li>                                      
+  <li>Me gusta aprender nuevas tecnologias</li>
+</ul>
+
+### TECNOLOGIAS
+<div>
+ <p ><img width="50" src="https://github.com/zuleta-laguna/zuleta-laguna/assets/131419195/bd0e1f88-1075-490e-80a2-ff505581968b"></p> 
 </div>
 
+ 
 
-<!--
-**zuleta-laguna/zuleta-laguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align="right"  width="300" src="https://github.com/zuleta-laguna/zuleta-laguna/assets/131419195/afd88da0-9b15-4936-863f-1df96bd9764d">
 
-Here are some ideas to get you started:
- <img src="https://github.com/zuleta-laguna/zuleta-laguna/assets/131419195/2683f307-0482-4101-892b-c1a442645c50" width="300"/>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
