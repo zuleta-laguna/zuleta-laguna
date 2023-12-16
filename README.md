@@ -23,7 +23,6 @@
    <img width="80" src="https://github.com/zuleta-laguna/zuleta-laguna/assets/131419195/8b024a26-faa7-49aa-80c2-53646ccdc65d">
    <img width="100" src="https://github.com/zuleta-laguna/zuleta-laguna/assets/131419195/11167dff-65fa-457d-89c5-4368d3c21948">
  </p> 
- <img align="right"  width="300" src="https://github.com/zuleta-laguna/zuleta-laguna/assets/131419195/afd88da0-9b15-4936-863f-1df96bd9764d">
 </div>
 
 
